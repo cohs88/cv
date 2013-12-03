@@ -33,3 +33,6 @@
 
 .mb-50
 {margin-bottom: 50px !important;}
+
+a
+{outline: 0 !important;}
