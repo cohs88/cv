@@ -18,4 +18,9 @@ $(document).ready(function(){
 		$.scrollTo("#habilidades", 800);
 		return false;
 	});
+
+	$("#lbl_galerias").click(function(){
+		$.scrollTo("#galerias", 800);
+		return false;
+	});
 });

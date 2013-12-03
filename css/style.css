@@ -16,7 +16,7 @@
 #experiencia_laboral
 {background: #33DAC9 !important}
 
-#experiencia_laboral h1, #proyectos_personales h1, #habilidades h1
+#experiencia_laboral h1, #proyectos_personales h1, #habilidades h1, #galerias h1
 {color: white !important}
 
 #proyectos_personales
@@ -24,6 +24,9 @@
 
 #habilidades
 {background: #FA8F89 !important}
+
+#galerias
+{background: #3E5266 !important}
 
 .jumbotron-mb
 {margin-bottom: 90px !important;}
