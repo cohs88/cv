@@ -13,4 +13,9 @@ $(document).ready(function(){
 		$.scrollTo("#proyectos_personales", 800);
 		return false;
 	});
+
+	$("#lbl_habilidades").click(function(){
+		$.scrollTo("#habilidades", 800);
+		return false;
+	});
 });
