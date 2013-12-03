@@ -16,8 +16,11 @@
 #experiencia_laboral
 {background: #33DAC9 !important}
 
-#experiencia_laboral h1
+#experiencia_laboral h1, #proyectos_personales h1
 {color: white !important}
+
+#proyectos_personales
+{background: #4CA9FB !important}
 
 .jumbotron-mb
 {margin-bottom: 90px !important;}
